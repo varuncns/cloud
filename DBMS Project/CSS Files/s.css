@@ -1,0 +1,114 @@
+.a{
+ color:red;
+}
+html,body{
+  background-size: 100%;
+}
+
+body{
+  background-image: url(ema1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 10px;
+}
+.b{
+   /* background-image: url(sss.jpg);  */
+    background-color:white;
+    margin: auto;
+    width: 700px;
+  text-align: center;
+  box-sizing: border-box;
+   border: 5px double white; 
+   margin-left: 20px;
+}
+.button1{
+  background-color:blue;
+  color: white;
+  padding: 14px 10px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 30%;
+}
+.c{
+    color:blue;
+    font-size: 3ch;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.button {
+  background-color:blue;
+  color: white;
+  padding: 14px 10px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 70%;
+}
+.cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  color: white;
+  background-color: #f44336;
+  margin: 15px;
+}
+.y{
+  padding:6px 2px;
+}
+.container {
+  padding: 16px;
+}
+.psw{
+  padding-left: 20px;
+}
+.us{
+  font-size: 1.5ch;
+  text-align: left;
+  padding-left:180px;
+}
+.x{
+  font-size: 1.5ch;
+  text-align: left;
+  color:orangered;
+  padding-left:180px;
+  font-family: 'Courier New', Courier, monospace;
+}
+.xyzx{
+  font-size: 1.0ch;
+  /* text-align: left; */
+  color:orangered;
+  font-style: initial;
+  /* padding-left:180px; */
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.xy{
+  font-size: 2.5ch;
+  text-align: left;
+  color:darkred;
+  padding-left:180px;
+  font-family: 'Courier New', Courier, monospace;
+}
+.xyz{
+  font-size: 1.7ch;
+  text-align: left;
+  color:firebrick;
+  padding-left:180px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.u{
+  font-size: 1.8ch;
+  text-align: left;
+  /* color:orangered; */
+}
+#op{
+  width: 48%;
+  border: 1px solid;
+}
+.but {
+  background-color:rgb(71, 71, 172);
+  color:whitesmoke;
+  padding: 14px 10px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width:20%
+}

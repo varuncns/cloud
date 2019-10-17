@@ -1,0 +1,25 @@
+#p{
+    float: left;
+    margin-top: 10%;
+    font-size: 70px;
+    color: blue;
+}
+#cs{
+    border: 3px solid black;
+    background-color: whitesmoke;
+    padding: 2%;
+    margin-right: 7%;
+    float: right;
+}
+.y{
+    margin: 3px;
+}
+.bt{
+    background-color:blue;
+  color: white;
+  padding: 14px 10px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width:40%
+}
